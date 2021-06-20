@@ -66,7 +66,7 @@
 - 👨‍💻 **Técnico em Sistemas de TV**\
 📆 2013 - 2018\
 📍 **TV Gazeta de Alagoas** - Maceió/AL, Brasil
-  Site - <a href='https://redeglobo.globo.com/al/tvgazetaal/' target="_blank">https://redeglobo.globo.com/al/tvgazetaal/</a>
+  Site - <a href="#" target="_blank">https://redeglobo.globo.com/al/tvgazetaal/</a>
 
 </details>
 
