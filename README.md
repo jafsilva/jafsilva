@@ -47,7 +47,7 @@
 
 ## Experiência
   
-<img align="right" src="https://img.shields.io/badge/Kubernet-blue?logo=kubernet&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-orange?logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ansible-black?logo=ansible" />
 <img align="right" src="https://img.shields.io/badge/Telecom-113a75?logo=Telecom" />
