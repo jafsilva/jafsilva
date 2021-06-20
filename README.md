@@ -18,22 +18,11 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-</p>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jafsilva&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
 <p align='center'>
   📫 How to reach me: <a href='mailto:jafsilvaferreira@hotmail.com'>jafsilvaferreira@hotmail.com</a>
 </p>
-<!--
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/jafsilva/jafsilva"></a> hipsters and nerds have come here o/
-</p>
--->
-<details>
-  <summary>📃 Resume</summary>
 
+<summary>📃 Resume</summary>
 
 ## Educação
 
@@ -71,8 +60,6 @@
 📆 2013 - 2018\
 📍 **TV Gazeta de Alagoas** - Maceió/AL, Brasil
   Site - <a href="#" target="_blank">https://redeglobo.globo.com/al/tvgazetaal/</a>
-
-</details>
 
 
 <!--
