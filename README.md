@@ -44,7 +44,7 @@
 
 - 👨‍💻 **Analista de Redes**\
 📆 2018 - momento\
-📍 **ALOO Telecom** - Maceió/AL, Brazil
+📍 **ALOO Telecom** - Maceió/AL, Brazil\
 💻 <a href="#" target="_blank">https://www.aloo.com.br</a>
 
   
@@ -57,7 +57,7 @@
 
 - 👨‍💻 **Técnico em Sistemas de TV**\
 📆 2013 - 2018\
-📍 **TV Gazeta de Alagoas** - Maceió/AL, Brasil
+📍 **TV Gazeta de Alagoas** - Maceió/AL, Brasil\
 💻 <a href="#" target="_blank">https://redeglobo.globo.com/al/tvgazetaal/</a>
 
 
