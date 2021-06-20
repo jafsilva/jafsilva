@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Um Analista de Redes com foco em Automação, NetDevOps e integração com outras plataformas de Maceió, Brasil.
+  Um Analista de Redes com foco em Automação, NetDevOps e integração de Telecom com outras plataformas - Maceió, Brasil.
 </p>
 
 <p align='center'>
