@@ -46,12 +46,11 @@
 📍 **Colégio Integrado Polivalente** - Santa Maria/DF, Brasil
 
 ## Experiência
-
-<img align="right" src="https://img.shields.io/badge/Telecom-113a75?logo=Telecom" />
+  
+<img align="right" src="https://img.shields.io/badge/Kubernet-blue?logo=kubernet&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-orange?logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ansible-black?logo=ansible" />
-<img align="right" src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Telecom-113a75?logo=Telecom" />
 
 - 👨‍💻 **Analista de Redes**\
 📆 2018 - momento\
