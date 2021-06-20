@@ -19,10 +19,8 @@
   </a>&nbsp;&nbsp;
   
 <p align='center'>
-  📫 How to reach me: <a href='mailto:jafsilvaferreira@hotmail.com'>jafsilvaferreira@hotmail.com</a>
+  📫 Contato: <a href='mailto:jafsilvaferreira@hotmail.com'>jafsilvaferreira@hotmail.com</a>
 </p>
-
-<summary>📃 Resume</summary>
 
 ## Educação
 
