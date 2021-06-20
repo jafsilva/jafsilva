@@ -20,10 +20,6 @@
     <a href='mailto:jafsilvaferreira@hotmail.com'>
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook" />        
   </a>&nbsp;&nbsp;
-  
-<p align='center'>
-  📫 Contato: <a href='mailto:jafsilvaferreira@hotmail.com'>jafsilvaferreira@hotmail.com</a>
-</p>
 
 ## Educação
 
