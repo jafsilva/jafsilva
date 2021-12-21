@@ -33,6 +33,17 @@
 
 ## Experiência
   
+<img align="right" src="https://img.shields.io/badge/Terraform-584fd2?logo=terraform&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ansible-black?logo=ansible" />
+<img align="right" src="https://img.shields.io/badge/Python-ffdb50?logo=python" />
+<img align="right" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-orange?logo=docker&logoColor=white" />
+
+- 👨‍💻 **Analista de DevOps/Cloud**\
+📆 11/2021 - momento\
+📍 **Compass.uol** - Maceió/AL, Brazil\
+💻 <a href="#" target="_blank">https://compass.uol</a>
+
 <img align="right" src="https://img.shields.io/badge/Netmiko-483D8B" />
 <img align="right" src="https://img.shields.io/badge/Django-0c4b33?logo=Django" />
 <img align="right" src="https://img.shields.io/badge/Python-ffdb50?logo=python" />
@@ -42,7 +53,7 @@
 <img align="right" src="https://img.shields.io/badge/Telecom-113a75" />
 
 - 👨‍💻 **Analista de Redes**\
-📆 2018 - momento\
+📆 11/2018 - 10/2021\
 📍 **ALOO Telecom** - Maceió/AL, Brazil\
 💻 <a href="#" target="_blank">https://www.aloo.com.br</a>
 
@@ -55,7 +66,7 @@
 
 
 - 👨‍💻 **Técnico em Sistemas de TV**\
-📆 2013 - 2018\
+📆 09/2013 - 10/2018\
 📍 **TV Gazeta de Alagoas** - Maceió/AL, Brasil\
 💻 <a href="#" target="_blank">https://redeglobo.globo.com/al/tvgazetaal/</a>
 
