@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Um Analista de Redes com foco em Automação, NetDevOps e integração de Telecom com outras plataformas - Maceió, Brasil.
+  Analista DevOps/Cloud interesse nos campos de Automação de Redes(DevNetOps), cloud e DevSecOps - Maceió, Brasil.
 </p>
 
 <p align='center'>
