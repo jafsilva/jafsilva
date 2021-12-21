@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Analista DevOps/Cloud interesse nos campos de Automação de Redes(DevNetOps), cloud e DevSecOps - Maceió, Brasil.
+  Analista DevOps/Cloud com interesse nos campos de Automação de Redes(DevNetOps), cloud e DevSecOps - Maceió, Brasil.
 </p>
 
 <p align='center'>
