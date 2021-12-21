@@ -41,7 +41,7 @@
 
 - 👨‍💻 **Analista de DevOps/Cloud**\
 📆 11/2021 - momento\
-📍 **Compass.uol**\
+📍 **Compass.uol** - Brazil\
 💻 <a href="#" target="_blank">https://compass.uol</a>
 
 <img align="right" src="https://img.shields.io/badge/Netmiko-483D8B" />
