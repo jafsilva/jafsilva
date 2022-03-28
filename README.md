@@ -36,10 +36,10 @@
 <img align="right" src="https://img.shields.io/badge/Python-ffdb50?logo=python" />
 <img align="right" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-orange?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Terraform-584fd2?logo=datadog&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/DataDog-744ca4?logo=datadog&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Terraform-584fd2?logo=terraform&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/AWS-ff9a00?logo=SonarQube&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/GitLab?logo=GitLab&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SonarQube-046b93?logo=SonarQube&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GitLab-50417f?logo=GitLab&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/AWS-ff9a00?logo=AWS&logoColor=white" />
 
 - 👨‍💻 **Analista de DevOps/Cloud**\
