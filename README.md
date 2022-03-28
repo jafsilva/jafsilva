@@ -39,7 +39,7 @@
 <img align="right" src="https://img.shields.io/badge/Terraform-584fd2?logo=terraform&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SonarQube-046b93?logo=SonarQube&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitLab-50417f?logo=GitLab&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/AWS-ff9a00?logo=AWS&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/AWS-ff9a00?logo=aws&logoColor=white" />
 
 - 👨‍💻 **Analista de DevOps/Cloud**\
 📆 11/2021 - momento\
