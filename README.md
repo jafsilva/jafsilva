@@ -33,7 +33,6 @@
 
 ## Experiência
 
-<img align="right" src="https://img.shields.io/badge/Python-ffdb50?logo=python" />
 <img align="right" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-orange?logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/DataDog-744ca4?logo=datadog&logoColor=white" />
