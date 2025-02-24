@@ -42,7 +42,20 @@
 <img align="right" src="https://img.shields.io/badge/AWS-ff9a00?logo=AWS&logoColor=white" />
 
 - 👨‍💻 **Analista de DevOps/Cloud**\
-📆 11/2021 - momento\
+📆 11/2023 - momento\
+📍 **Pluxee Brasil** - Brazil\
+💻 <a href="#" target="_blank">https://www.pluxeegroup.com/</a>
+
+<img align="right" src="https://img.shields.io/badge/Netmiko-483D8B" />
+<img align="right" src="https://img.shields.io/badge/Django-0c4b33?logo=Django" />
+<img align="right" src="https://img.shields.io/badge/Python-ffdb50?logo=python" />
+<img align="right" src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-orange?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ansible-black?logo=ansible" />
+<img align="right" src="https://img.shields.io/badge/Telecom-113a75" />
+
+- 👨‍💻 **Analista de DevOps/Cloud**\
+📆 11/2021 - 2023\
 📍 **Compass.uol** - Brazil\
 💻 <a href="#" target="_blank">https://compass.uol</a>
 
