@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Olá 👋 Eu sou Aparecido Ferreira 👨‍💻
+  Olá 👋 Eu sou José Aparecido 👨‍💻
 </h1>
 
 <p align='center'>
@@ -41,7 +41,7 @@
 <img align="right" src="https://img.shields.io/badge/GitLab-50417f?logo=GitLab" />
 <img align="right" src="https://img.shields.io/badge/AWS-ff9a00?logo=AWS&logoColor=white" />
 
-- 👨‍💻 **Analista de DevOps/Cloud**\
+- 👨‍💻 **Especialista de DevOps/Cloud**\
 📆 11/2023 - momento\
 📍 **Pluxee Brasil** - Brazil\
 💻 <a href="#" target="_blank">https://www.pluxeegroup.com/</a>
